@@ -1,0 +1,6 @@
+Line 1: Hello, my name is Wes.
+Line 2: I come from Kenya.
+Line 3: I am 21 years old
+Line 4: My first name is Eugene.
+Line 5: I am from Western Kenya.
+Line 6: Born in 2002
